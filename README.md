@@ -1,5 +1,13 @@
-## Hi, eu sou o Lucas
-- 🌱 I’m currently learning Python and HTML/CSS
-- ⚡ Random fact: I love Star Wars
+## Hi, eu sou o Lucas!!
+
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=luucM&show_icons=true&theme=tokyonight)
+
+<h3>Linguagens que estou utilizando e me desenvolvendo nelas:</h3>
+<div style="display: inline_block"><br>
+ <img align="center" alt="Rafa-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
+ <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+ <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+<div/>
+
+##
